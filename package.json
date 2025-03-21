@@ -66,7 +66,9 @@
     "@stdlib/utils-library-manifest": "^0.2.2"
   },
   "devDependencies": {
+    "@stdlib/array-base-to-accessor-array": "^0.2.2",
     "@stdlib/array-filled": "^0.2.1",
+    "@stdlib/array-float64": "^0.2.2",
     "@stdlib/array-typed-complex-ctors": "^0.2.2",
     "@stdlib/assert-is-boolean": "^0.2.2",
     "@stdlib/fs-read-dir": "^0.2.2",
@@ -85,6 +87,7 @@
     "@stdlib/ndarray-base-shape2strides": "^0.2.2",
     "@stdlib/ndarray-base-to-array": "^0.2.1",
     "@stdlib/ndarray-dtypes": "^0.3.0",
+    "@stdlib/ndarray-from-scalar": "^0.2.1",
     "@stdlib/ndarray-safe-casts": "^0.3.0",
     "@stdlib/random-array-bernoulli": "^0.2.1",
     "@stdlib/random-array-discrete-uniform": "^0.2.1",
