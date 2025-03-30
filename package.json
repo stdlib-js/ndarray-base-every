@@ -49,6 +49,7 @@
     "@stdlib/complex-float64-ctor": "^0.0.3",
     "@stdlib/complex-float64-imag": "^0.1.1",
     "@stdlib/complex-float64-real": "^0.1.1",
+    "@stdlib/ndarray-base-assert-is-row-major-string": "github:stdlib-js/ndarray-base-assert-is-row-major-string#main",
     "@stdlib/ndarray-base-bytes-per-element": "^0.2.2",
     "@stdlib/ndarray-base-iteration-order": "^0.2.2",
     "@stdlib/ndarray-base-minmax-view-buffer-index": "^0.2.2",
