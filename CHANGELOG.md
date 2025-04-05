@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-30)
+## Unreleased (2025-04-05)
 
 <section class="features">
 
@@ -66,6 +66,10 @@
 
 <details>
 
+-   [`5b99ffb`](https://github.com/stdlib-js/stdlib/commit/5b99ffb24c9dec39925e95e3a5992cef9283e4eb) - **docs:** fix text block _(by Athan Reines)_
+-   [`f48027c`](https://github.com/stdlib-js/stdlib/commit/f48027ca63fab9c8cec60137439a7c9a741360a0) - **docs:** fix description _(by Athan Reines)_
+-   [`d2564c7`](https://github.com/stdlib-js/stdlib/commit/d2564c7c234ed2be3b8ea32ffa41cb937cc83289) - **docs:** update example _(by Athan Reines)_
+-   [`d070f40`](https://github.com/stdlib-js/stdlib/commit/d070f4068364ed50c796c7961d9b7d967b2079ab) - **docs:** fix example _(by Athan Reines)_
 -   [`b28f85a`](https://github.com/stdlib-js/stdlib/commit/b28f85a0469dd2f4ace20c220f6718cce912eaea) - **refactor:** use assertion utility to check for row-major order _(by Athan Reines)_
 -   [`c533b6d`](https://github.com/stdlib-js/stdlib/commit/c533b6d0cf52949bc78141f23ebd58743f94a5a6) - **docs:** fix description _(by Athan Reines)_
 -   [`70d0be2`](https://github.com/stdlib-js/stdlib/commit/70d0be235297eecc69d8e7ec4aad484ac7d5aedc) - **test:** add 0d tests _(by Athan Reines)_
