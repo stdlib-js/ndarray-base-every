@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-05)
+## Unreleased (2025-04-25)
 
 <section class="features">
 
@@ -66,6 +66,8 @@
 
 <details>
 
+-   [`998cea3`](https://github.com/stdlib-js/stdlib/commit/998cea3de3266730ae7e35905faf5570df1a4b29) - **docs:** fix equality check _(by Athan Reines)_
+-   [`5426105`](https://github.com/stdlib-js/stdlib/commit/5426105c564949702197dd622aab2e81cae79283) - **docs:** use C equality operator _(by Philipp Burckhardt)_
 -   [`5b99ffb`](https://github.com/stdlib-js/stdlib/commit/5b99ffb24c9dec39925e95e3a5992cef9283e4eb) - **docs:** fix text block _(by Athan Reines)_
 -   [`f48027c`](https://github.com/stdlib-js/stdlib/commit/f48027ca63fab9c8cec60137439a7c9a741360a0) - **docs:** fix description _(by Athan Reines)_
 -   [`d2564c7`](https://github.com/stdlib-js/stdlib/commit/d2564c7c234ed2be3b8ea32ffa41cb937cc83289) - **docs:** update example _(by Athan Reines)_
@@ -152,9 +154,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 

@@ -1387,7 +1387,7 @@ struct ndarray *arrays[] = { x, y };
 
 // Define a callback:
 static bool fcn( const stdlib_complex64_t x ) {
-    return ( stdlib_complex64_real( x ) == 0.0f && stdlib_complex64_imag( x ) === 0.0f );
+    return ( stdlib_complex64_real( x ) == 0.0f && stdlib_complex64_imag( x ) == 0.0f );
 }
 
 // Test elements:
@@ -2032,7 +2032,7 @@ struct ndarray *arrays[] = { x, y };
 
 // Define a callback:
 static bool fcn( const stdlib_complex128_t x ) {
-    return ( stdlib_complex128_real( x ) == 0.0 && stdlib_complex128_imag( x ) === 0.0 );
+    return ( stdlib_complex128_real( x ) == 0.0 && stdlib_complex128_imag( x ) == 0.0 );
 }
 
 // Test elements:
@@ -2125,7 +2125,7 @@ struct ndarray *arrays[] = { x, y };
 
 // Define a callback:
 static bool fcn( const stdlib_complex64_t x ) {
-    return ( stdlib_complex64_real( x ) == 0.0f && stdlib_complex64_imag( x ) === 0.0f );
+    return ( stdlib_complex64_real( x ) == 0.0f && stdlib_complex64_imag( x ) == 0.0f );
 }
 
 // Test elements:
@@ -2218,7 +2218,7 @@ struct ndarray *arrays[] = { x, y };
 
 // Define a callback:
 static bool fcn( const stdlib_complex128_t x ) {
-    return ( stdlib_complex128_real( x ) == 0.0 && stdlib_complex128_imag( x ) === 0.0 );
+    return ( stdlib_complex128_real( x ) == 0.0 && stdlib_complex128_imag( x ) == 0.0 );
 }
 
 // Test elements:
@@ -2403,7 +2403,7 @@ struct ndarray *arrays[] = { x, y };
 
 // Define a callback:
 static bool fcn( const stdlib_complex128_t x ) {
-    return ( stdlib_complex128_real( x ) == 0.0 && stdlib_complex128_imag( x ) === 0.0 );
+    return ( stdlib_complex128_real( x ) == 0.0 && stdlib_complex128_imag( x ) == 0.0 );
 }
 
 // Test elements:
@@ -2588,7 +2588,7 @@ struct ndarray *arrays[] = { x, y };
 
 // Define a callback:
 static bool fcn( const stdlib_complex64_t x ) {
-    return ( stdlib_complex64_real( x ) == 0.0f && stdlib_complex64_imag( x ) === 0.0f );
+    return ( stdlib_complex64_real( x ) == 0.0f && stdlib_complex64_imag( x ) == 0.0f );
 }
 
 // Test elements:
@@ -2773,7 +2773,7 @@ struct ndarray *arrays[] = { x, y };
 
 // Define a callback:
 static bool fcn( const stdlib_complex128_t x ) {
-    return ( stdlib_complex128_real( x ) == 0.0 && stdlib_complex128_imag( x ) === 0.0 );
+    return ( stdlib_complex128_real( x ) == 0.0 && stdlib_complex128_imag( x ) == 0.0 );
 }
 
 // Test elements:
@@ -3050,7 +3050,7 @@ struct ndarray *arrays[] = { x, y };
 
 // Define a callback:
 static bool fcn( const stdlib_complex128_t x ) {
-    return ( stdlib_complex128_real( x ) == 0.0 && stdlib_complex128_imag( x ) === 0.0 );
+    return ( stdlib_complex128_real( x ) == 0.0 && stdlib_complex128_imag( x ) == 0.0 );
 }
 
 // Test elements:
@@ -3235,7 +3235,7 @@ struct ndarray *arrays[] = { x, y };
 
 // Define a callback:
 static bool fcn( const stdlib_complex64_t x ) {
-    return ( stdlib_complex64_real( x ) == 0.0f && stdlib_complex64_imag( x ) === 0.0f );
+    return ( stdlib_complex64_real( x ) == 0.0f && stdlib_complex64_imag( x ) == 0.0f );
 }
 
 // Test elements:
@@ -3604,7 +3604,7 @@ struct ndarray *arrays[] = { x, y };
 
 // Define a callback:
 static bool fcn( const stdlib_complex128_t x ) {
-    return ( stdlib_complex128_real( x ) == 0.0 && stdlib_complex128_imag( x ) === 0.0 );
+    return ( stdlib_complex128_real( x ) == 0.0 && stdlib_complex128_imag( x ) == 0.0 );
 }
 
 // Test elements:
@@ -3789,7 +3789,7 @@ struct ndarray *arrays[] = { x, y };
 
 // Define a callback:
 static bool fcn( const stdlib_complex64_t x ) {
-    return ( stdlib_complex64_real( x ) == 0.0f && stdlib_complex64_imag( x ) === 0.0f );
+    return ( stdlib_complex64_real( x ) == 0.0f && stdlib_complex64_imag( x ) == 0.0f );
 }
 
 // Test elements:
@@ -4250,7 +4250,7 @@ struct ndarray *arrays[] = { x, y };
 
 // Define a callback:
 static bool fcn( const stdlib_complex128_t x ) {
-    return ( stdlib_complex128_real( x ) == 0.0 && stdlib_complex128_imag( x ) === 0.0 );
+    return ( stdlib_complex128_real( x ) == 0.0 && stdlib_complex128_imag( x ) == 0.0 );
 }
 
 // Test elements:
@@ -4435,7 +4435,7 @@ struct ndarray *arrays[] = { x, y };
 
 // Define a callback:
 static bool fcn( const stdlib_complex64_t x ) {
-    return ( stdlib_complex64_real( x ) == 0.0f && stdlib_complex64_imag( x ) === 0.0f );
+    return ( stdlib_complex64_real( x ) == 0.0f && stdlib_complex64_imag( x ) == 0.0f );
 }
 
 // Test elements:
@@ -4896,7 +4896,7 @@ struct ndarray *arrays[] = { x, y };
 
 // Define a callback:
 static bool fcn( const stdlib_complex128_t x ) {
-    return ( stdlib_complex128_real( x ) == 0.0 && stdlib_complex128_imag( x ) === 0.0 );
+    return ( stdlib_complex128_real( x ) == 0.0 && stdlib_complex128_imag( x ) == 0.0 );
 }
 
 // Test elements:
@@ -5173,7 +5173,7 @@ struct ndarray *arrays[] = { x, y };
 
 // Define a callback:
 static bool fcn( const stdlib_complex128_t x ) {
-    return ( stdlib_complex128_real( x ) == 0.0 && stdlib_complex128_imag( x ) === 0.0 );
+    return ( stdlib_complex128_real( x ) == 0.0 && stdlib_complex128_imag( x ) == 0.0 );
 }
 
 // Test elements:
@@ -5358,7 +5358,7 @@ struct ndarray *arrays[] = { x, y };
 
 // Define a callback:
 static bool fcn( const stdlib_complex128_t x ) {
-    return ( stdlib_complex128_real( x ) == 0.0 && stdlib_complex128_imag( x ) === 0.0 );
+    return ( stdlib_complex128_real( x ) == 0.0 && stdlib_complex128_imag( x ) == 0.0 );
 }
 
 // Test elements:
