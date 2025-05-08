@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-07)
+## Unreleased (2025-05-08)
 
 <section class="features">
 
@@ -51,6 +51,7 @@
 
 ### Bug Fixes
 
+-   [`ca6378c`](https://github.com/stdlib-js/stdlib/commit/ca6378c56d971ae1c08f162bfda933b7b2fc04cf) - use resolved order when computing loop variables
 -   [`5f03a9c`](https://github.com/stdlib-js/stdlib/commit/5f03a9c9c4192b27996e9fb22959ca948230396a) - update function names and fix buffer dtype
 -   [`835bd41`](https://github.com/stdlib-js/stdlib/commit/835bd415145e4f72c46ec7222a2f90fbcc79b791) - remove extra slash
 -   [`c274741`](https://github.com/stdlib-js/stdlib/commit/c274741b9abb10df5dc8a887ca2500db5bb506c0) - define constant pointer
@@ -66,6 +67,7 @@
 
 <details>
 
+-   [`ca6378c`](https://github.com/stdlib-js/stdlib/commit/ca6378c56d971ae1c08f162bfda933b7b2fc04cf) - **fix:** use resolved order when computing loop variables _(by Athan Reines)_
 -   [`3dd8cb3`](https://github.com/stdlib-js/stdlib/commit/3dd8cb379ea22c4a92d610d146cdd662d3187e27) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`998cea3`](https://github.com/stdlib-js/stdlib/commit/998cea3de3266730ae7e35905faf5570df1a4b29) - **docs:** fix equality check _(by Athan Reines)_
 -   [`5426105`](https://github.com/stdlib-js/stdlib/commit/5426105c564949702197dd622aab2e81cae79283) - **docs:** use C equality operator _(by Philipp Burckhardt)_
