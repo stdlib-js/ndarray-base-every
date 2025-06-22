@@ -330,7 +330,7 @@ if ( y == NULL ) {
 struct ndarray *arrays[] = { x, y };
 
 // Test elements:
-int8_t status = stdlib_ndarray_b_x( arrays, NULL );
+int8_t status = stdlib_ndarray_every_b_x( arrays, NULL );
 if ( status != 0 ) {
     fprintf( stderr, "Error during computation.\n" );
     exit( EXIT_FAILURE );
@@ -418,7 +418,7 @@ if ( y == NULL ) {
 struct ndarray *arrays[] = { x, y };
 
 // Test elements:
-int8_t status = stdlib_ndarray_c_x( arrays, NULL );
+int8_t status = stdlib_ndarray_every_c_x( arrays, NULL );
 if ( status != 0 ) {
     fprintf( stderr, "Error during computation.\n" );
     exit( EXIT_FAILURE );
@@ -505,7 +505,7 @@ if ( y == NULL ) {
 struct ndarray *arrays[] = { x, y };
 
 // Test elements:
-int8_t status = stdlib_ndarray_d_x( arrays, NULL );
+int8_t status = stdlib_ndarray_every_d_x( arrays, NULL );
 if ( status != 0 ) {
     fprintf( stderr, "Error during computation.\n" );
     exit( EXIT_FAILURE );
@@ -592,7 +592,7 @@ if ( y == NULL ) {
 struct ndarray *arrays[] = { x, y };
 
 // Test elements:
-int8_t status = stdlib_ndarray_f_x( arrays, NULL );
+int8_t status = stdlib_ndarray_every_f_x( arrays, NULL );
 if ( status != 0 ) {
     fprintf( stderr, "Error during computation.\n" );
     exit( EXIT_FAILURE );
@@ -679,7 +679,7 @@ if ( y == NULL ) {
 struct ndarray *arrays[] = { x, y };
 
 // Test elements:
-int8_t status = stdlib_ndarray_i_x( arrays, NULL );
+int8_t status = stdlib_ndarray_every_i_x( arrays, NULL );
 if ( status != 0 ) {
     fprintf( stderr, "Error during computation.\n" );
     exit( EXIT_FAILURE );
@@ -766,7 +766,7 @@ if ( y == NULL ) {
 struct ndarray *arrays[] = { x, y };
 
 // Test elements:
-int8_t status = stdlib_ndarray_k_x( arrays, NULL );
+int8_t status = stdlib_ndarray_every_k_x( arrays, NULL );
 if ( status != 0 ) {
     fprintf( stderr, "Error during computation.\n" );
     exit( EXIT_FAILURE );
@@ -853,7 +853,7 @@ if ( y == NULL ) {
 struct ndarray *arrays[] = { x, y };
 
 // Test elements:
-int8_t status = stdlib_ndarray_s_x( arrays, NULL );
+int8_t status = stdlib_ndarray_every_s_x( arrays, NULL );
 if ( status != 0 ) {
     fprintf( stderr, "Error during computation.\n" );
     exit( EXIT_FAILURE );
@@ -940,7 +940,7 @@ if ( y == NULL ) {
 struct ndarray *arrays[] = { x, y };
 
 // Test elements:
-int8_t status = stdlib_ndarray_t_x( arrays, NULL );
+int8_t status = stdlib_ndarray_every_t_x( arrays, NULL );
 if ( status != 0 ) {
     fprintf( stderr, "Error during computation.\n" );
     exit( EXIT_FAILURE );
@@ -1027,7 +1027,7 @@ if ( y == NULL ) {
 struct ndarray *arrays[] = { x, y };
 
 // Test elements:
-int8_t status = stdlib_ndarray_u_x( arrays, NULL );
+int8_t status = stdlib_ndarray_every_u_x( arrays, NULL );
 if ( status != 0 ) {
     fprintf( stderr, "Error during computation.\n" );
     exit( EXIT_FAILURE );
@@ -1114,7 +1114,7 @@ if ( y == NULL ) {
 struct ndarray *arrays[] = { x, y };
 
 // Test elements:
-int8_t status = stdlib_ndarray_x_x( arrays, NULL );
+int8_t status = stdlib_ndarray_every_x_x( arrays, NULL );
 if ( status != 0 ) {
     fprintf( stderr, "Error during computation.\n" );
     exit( EXIT_FAILURE );
@@ -1202,7 +1202,7 @@ if ( y == NULL ) {
 struct ndarray *arrays[] = { x, y };
 
 // Test elements:
-int8_t status = stdlib_ndarray_z_x( arrays, NULL );
+int8_t status = stdlib_ndarray_every_z_x( arrays, NULL );
 if ( status != 0 ) {
     fprintf( stderr, "Error during computation.\n" );
     exit( EXIT_FAILURE );
