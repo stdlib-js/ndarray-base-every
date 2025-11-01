@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-18)
+## Unreleased (2025-11-01)
 
 <section class="features">
 
@@ -51,6 +51,7 @@
 
 ### Bug Fixes
 
+-   [`95313b8`](https://github.com/stdlib-js/stdlib/commit/95313b80fc669b87cf31298db9e03ff25cfdd312) - address off-by-one bug
 -   [`ca6378c`](https://github.com/stdlib-js/stdlib/commit/ca6378c56d971ae1c08f162bfda933b7b2fc04cf) - use resolved order when computing loop variables
 -   [`5f03a9c`](https://github.com/stdlib-js/stdlib/commit/5f03a9c9c4192b27996e9fb22959ca948230396a) - update function names and fix buffer dtype
 -   [`835bd41`](https://github.com/stdlib-js/stdlib/commit/835bd415145e4f72c46ec7222a2f90fbcc79b791) - remove extra slash
@@ -67,6 +68,7 @@
 
 <details>
 
+-   [`95313b8`](https://github.com/stdlib-js/stdlib/commit/95313b80fc669b87cf31298db9e03ff25cfdd312) - **fix:** address off-by-one bug _(by Athan Reines)_
 -   [`a3e7978`](https://github.com/stdlib-js/stdlib/commit/a3e79786217bf1c9a84875203251af82cc93a222) - **docs:** update markup _(by Athan Reines)_
 -   [`b479fcf`](https://github.com/stdlib-js/stdlib/commit/b479fcfb90c9c9cd56cc0908b2a60a5302f1710f) - **test:** add missing tests to `ndarray/base/every` [(#7235)](https://github.com/stdlib-js/stdlib/pull/7235) _(by Muhammad Haris)_
 -   [`b00bebf`](https://github.com/stdlib-js/stdlib/commit/b00bebf69833c3e4de2c280472c166fc79cfaf44) - **docs:** fix examples _(by Athan Reines)_
