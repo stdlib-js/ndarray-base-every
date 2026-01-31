@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import every from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-every@deno/mod.js';
+import every from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-every@v0.1.0-deno/mod.js';
 ```
 
 #### every( arrays )
@@ -123,7 +123,7 @@ The provided ndarray should be an object with the following properties:
 ```javascript
 import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-bernoulli@deno/mod.js';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-to-array@deno/mod.js';
-import every from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-every@deno/mod.js';
+import every from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-every@v0.1.0-deno/mod.js';
 
 var x = {
     'dtype': 'generic',
