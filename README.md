@@ -48,6 +48,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import every from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-every@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/ndarray-base-every/tags). For example,
+
+```javascript
 import every from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-every@v0.1.1-deno/mod.js';
 ```
 
@@ -123,7 +128,7 @@ The provided ndarray should be an object with the following properties:
 ```javascript
 import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-bernoulli@deno/mod.js';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-to-array@deno/mod.js';
-import every from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-every@v0.1.1-deno/mod.js';
+import every from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-every@deno/mod.js';
 
 var x = {
     'dtype': 'generic',
