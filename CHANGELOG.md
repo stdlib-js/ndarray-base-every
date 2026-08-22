@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-17)
+## Unreleased (2026-08-22)
 
 <section class="bug-fixes">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`fdbc822`](https://github.com/stdlib-js/stdlib/commit/fdbc82241f30438af95d53f451c1c4cd4523859f) - **chore:** remove unnecessary `format` calls [(#14520)](https://github.com/stdlib-js/stdlib/pull/14520) _(by Philipp Burckhardt)_
 -   [`4298108`](https://github.com/stdlib-js/stdlib/commit/429810892447fdffb2527cc5f1d9810c14f89a90) - **bench:** allow support for measuring different dtypes _(by Athan Reines)_
 -   [`ae0704c`](https://github.com/stdlib-js/stdlib/commit/ae0704c8acf3023469ab02686154e26193a601cd) - **docs:** fix typo `PREMABLE` to `PREAMBLE` [(#13130)](https://github.com/stdlib-js/stdlib/pull/13130) _(by anee3)_
 -   [`e6cc42b`](https://github.com/stdlib-js/stdlib/commit/e6cc42bab0268753252236d0e7511c97443754cc) - **fix:** correct typo in enum name and fix C examples [(#13088)](https://github.com/stdlib-js/stdlib/pull/13088) _(by anee3)_
@@ -37,10 +38,11 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Karan Anand
+-   Philipp Burckhardt
 -   anee3
 
 </section>
